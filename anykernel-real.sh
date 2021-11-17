@@ -7,7 +7,7 @@ properties() { '
 kernel.string=ExampleKernel by osm0sis @ xda-developers
 kernel.for=KernelForDriver
 kernel.compiler=SDPG
-kernel.made=Thoreck @Nezuko
+kernel.made=Kneba @Foxy
 kernel.version=4.4.xxx
 message.word=ooflol
 build.date=2077
@@ -21,7 +21,7 @@ device.name2=X00T
 device.name3=Zenfone Max Pro M1 (X00TD)
 device.name4=ASUS_X00TD
 device.name5=ASUS_X00T
-supported.versions=9.0-11.0
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
