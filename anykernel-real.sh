@@ -305,4 +305,3 @@ fi;
 
 write_boot;
 ## end install
-
